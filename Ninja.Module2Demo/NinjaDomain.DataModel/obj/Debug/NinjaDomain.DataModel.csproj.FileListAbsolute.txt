@@ -1,0 +1,16 @@
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.dll.config
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.dll
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.pdb
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.dll
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.Classes.dll
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.Classes.pdb
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.xml
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.csprojResolveAssemblyReference.cache
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.csproj.CoreCompileInputs.cache
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.dll
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.pdb
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.Migrations.Initial_Gold_Migration.resources
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.csproj.GenerateResource.Cache
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.Migrations.AddedDateOfBirthToNinja.resources

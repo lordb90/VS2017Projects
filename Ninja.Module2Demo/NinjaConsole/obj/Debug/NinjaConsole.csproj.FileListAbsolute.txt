@@ -1,0 +1,16 @@
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaConsole\bin\Debug\NinjaConsole.exe.config
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaConsole\bin\Debug\NinjaConsole.exe
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaConsole\bin\Debug\NinjaConsole.pdb
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaConsole\bin\Debug\EntityFramework.dll
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaConsole\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaConsole\bin\Debug\NinjaDomain.Classes.dll
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaConsole\bin\Debug\NinjaDomain.DataModel.dll
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaConsole\bin\Debug\NinjaDomain.Classes.pdb
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaConsole\bin\Debug\NinjaDomain.DataModel.pdb
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaConsole\bin\Debug\NinjaDomain.DataModel.dll.config
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaConsole\bin\Debug\EntityFramework.xml
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaConsole\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaConsole\obj\Debug\NinjaConsole.csprojResolveAssemblyReference.cache
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaConsole\obj\Debug\NinjaConsole.csproj.CoreCompileInputs.cache
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaConsole\obj\Debug\NinjaConsole.exe
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaConsole\obj\Debug\NinjaConsole.pdb

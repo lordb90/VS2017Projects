@@ -1,0 +1,6 @@
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaDomain.Classes\bin\Debug\NinjaDomain.Classes.dll
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaDomain.Classes\bin\Debug\NinjaDomain.Classes.pdb
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.csprojResolveAssemblyReference.cache
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.csproj.CoreCompileInputs.cache
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.dll
+E:\Projects\Visual Studio 2017\Projects\Ninja.Module2Demo\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.pdb
